@@ -270,42 +270,4 @@ A gente sabia disso e pra isso trouxemos uma amiga que morava lá pra poder rece
 
 ### Vai tomar no c# Twitch
 
-</v-click>d3sz2kwzid7qksvuqr06.gif)
-
-Painel de admin pros streamers/viewers:
-![fodase](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h5bc1ikg9ayjyjpcqn7j.gif)
-
-
----
-layout: center
-transition: fade
-align: center
---- 
-
-## Porém fomos desclassificados por um detalhe:
-
-<v-click>
-
-Eramos um time de Brasileiros :D
-
-</v-click>
-
----
-layout: facts
-transition: "fade"
-image: "https://i.imgur.com/snuk3lu.png"
-fact: "Submissão mais votada"
-context: "Se vocês acham que as olimpiadas foi armado é pq n viram esse hackathon"
-year: "2021/mar"
-name: "Perdemo por ser BR"
---- 
-
-Infelizmente, com o time todo BR, acabou que tinha uma regra que barrava o prêmio de ser entregue pra países que não fossem os EUA :D
-
-A gente sabia disso e pra isso trouxemos uma amiga que morava lá pra poder receber, porém mesmo assim eles não deixaram competir :DDD
-
-<v-click>
-
-### Vai tomar no c# Twitch
-
 </v-click>

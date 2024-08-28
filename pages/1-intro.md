@@ -1,10 +1,10 @@
-# Welcome to Slidev
+# Criando Extensões de Alta Performance com JS + Rust + ScyllaDB
 
-Presentation slides for developers
+Criar aplicações web é legal, mas e quando falamos de extensões pra browser que precisam ser monstruosamente simples e rápidas? 
 
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
-    Press Space for next page <carbon:arrow-right class="inline"/>
+    Começar Palestra <carbon:arrow-right class="inline"/>
   </span>
 </div>
 

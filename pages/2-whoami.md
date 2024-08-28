@@ -4,6 +4,7 @@ layout: whoami
 image: https://github.com/danielhe4rt.png
 handle: "danielhe4rt"
 full_name: "Daniel Reis"
+has_socials: true
 ---
 
 # Quem sou eu?

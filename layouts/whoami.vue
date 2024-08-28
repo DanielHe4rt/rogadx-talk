@@ -18,6 +18,10 @@ const props = defineProps({
   class: {
     type: String,
   },
+  has_socials: {
+    type: Boolean,
+    default: false,
+  },
   backgroundSize: {
     type: String,
     default: 'cover',
@@ -29,11 +33,11 @@ const style = computed(() => handleBackground(props.image, false, props.backgrou
 
 <template>
   <div class="grid grid-cols-3 w-full h-full ">
-    <div class="w-full h-full " :style="style" >
+    <div class="w-full h-full text-center" :style="style" >
         <div class="bg-black bg-opacity-50 w-full h-full">
             <div class="flex justify-end space-y-3 flex-col items-center py-10 h-full">
                 <h4 class="text-4xl text-white font-bold">{{ $props.full_name }}</h4>
-                <div class="flex space-x-4">
+                <div class="flex space-x-4" v-if="$props.has_socials">
                   <mdi-twitter class="text-1xl"/>  
                   <mdi-github class="text-1xl"/>
                   <mdi-linkedin class="text-1xl"/>
