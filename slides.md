@@ -84,3 +84,8 @@ hide: false
 src: ./pages/8-wrapping-up.md
 hide: false
 ---
+
+---
+src: ./pages/9-thank-you.md
+hide: false
+---
