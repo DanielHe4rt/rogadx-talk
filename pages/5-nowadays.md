@@ -88,8 +88,15 @@ Meu trabalho então é engajar comunidades e fazer eles conhecerem isso aqui ó:
 
 </div>
 
+---
+layout: image
+image: https://i.imgur.com/8hvT8ze.png
+---
 
-
+---
+layout: image
+image: https://i.imgur.com/QHa3L3S.png
+---
 ---
 transition: none
 layout: whoami
@@ -247,7 +254,6 @@ Artigo por: Bo Ingram - 6 de março de 2023
 transition: zoom
 layout: whoami
 image: "https://i.imgur.com/f67pUvn.png"
-
 ---
 
 # Casos de Uso

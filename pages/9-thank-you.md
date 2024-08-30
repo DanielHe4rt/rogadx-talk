@@ -1,6 +1,6 @@
 ---
 layout: image-right
-image: https://i.imgur.com/HmYoBEC.png
+image: https://i.imgur.com/mibyecy.png
 ---
 
 # Obrigado!

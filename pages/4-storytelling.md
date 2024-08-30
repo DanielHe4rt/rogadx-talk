@@ -52,21 +52,18 @@ Já fui um fã de integrar IRC antes, mas o da Twitch foi 1000% mais simples:
 <v-click>
 
 
-```js
+```js 
 // Create a client with our options
-const client = new tmi.Client(opts);
-Porém tinha acabado de começar a t
-  switch (userstate["message-type"]) {
-    case "action":
-      manageChat(userstate, chatMessage, null);
-      break;
-    case "chat":
-      manageChat(userstate, chatMessage, null);
-      break;
-    default:
-      // Something else ?
-      break;
-  }
+
+const tmi = require('tmi.js');
+
+const client = new tmi.Client({
+	channels: [ 'danielhe4rt', 'alanzoka' ]
+});
+
+client.on('message', (channel, tags, message) => {
+	// "danielhe4rt: segue nois na twitch!"
+	console.log(`${tags['display-name']}: ${message}`);
 });
 
 client.connect();
@@ -248,7 +245,9 @@ align: center
 
 <v-click>
 
-Eramos um time de Brasileiros :D
+<center>
+<img src="https://i.imgur.com/8IKFAVN.jpeg">
+</center>
 
 </v-click>
 
