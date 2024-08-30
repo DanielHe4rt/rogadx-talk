@@ -1,11 +1,14 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# RogaDX Talk 2024
 
-To start the slide show:
+Aqui você encontra todos os slides usados na palestra "Criando ama aplicação de alta demanda".
+
+Todos os slides estão dentro da pasta `pages` e seguem com o prefixo `%n-`. 
+
+Caso você queira iniciar o slideshow:
 
 - `npm install`
 - `npm run dev`
 - visit <http://localhost:3030>
 
-Edit the [slides.md](./slides.md) to see the changes.
 
-Learn more about Slidev at the [documentation](https://sli.dev/).
+Esse projeto foi feito com o [sli.dev](https://sli.dev).
