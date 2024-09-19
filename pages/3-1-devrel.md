@@ -229,7 +229,6 @@ layoutClass: gap-5
 ---
 
 ## Developer Relations: Roles
-
 ::left::
 
 <img width="260" class="rounded" src="https://i.imgur.com/FSRnOo8.png">
@@ -269,17 +268,123 @@ layout: section
 layoutClass: gap-5
 ---
 
-## 
 
 ## Developer Relations: Companies Perspective 
 
 Até pq alguém tem que pagar suas contas \:p
 
 ---
-layout: fact
+layout: whoami
 layoutClass: gap-5
+image: https://i.imgur.com/Ln16XoA.png
 ---
 
-eae
+## Quais são as tarefas de alguém que atua em DevRel?
+
+Tem uma lista bem grandinha até:
+
+<div class="flex flex-row space-x-5 text-sm">
+
+<v-clicks class="space-y-3">
+
+- **Educational Content & Talks**: 
+  - Creating tutorials, 
+  - delivering workshops, 
+  - writing docs.
+- **Leadership & Strategy**: 
+  - Setting goals, 
+  - prioritizing tasks, 
+  - managing teams.
+- **Community & Brand**: 
+  - Building programs, 
+  - managing communities, 
+  - distributing swag, 
+  - growing brand awareness.
+
+</v-clicks>
+<v-clicks class="space-y-3">
+
+- **Open Source & Product Support**: 
+  - Contributing to open source
+  - triaging issues
+  - providing feedback.
+- **Product Development**: 
+  - Specifying new features and
+  - driving updates.
+
+</v-clicks>
+</div>
+
 ---
+layout: whoami
+layoutClass: gap-5
+image: https://i.imgur.com/QlzEv69.png
+---
+
+## E sobre as entregas? Cadê os commit?
+
+DevRel é movido totalmente a números
+
+<v-clicks>
+
+- **Quantitative Metrics:**
+  - Number of active developers or product users
+  - Number of questions answered in forums/issues
+- **Qualitative Metrics:**
+  - Audience scores from talks and workshops
+  - Documentation quality ratings
+  - Community engagement metrics
+- **Supporting Business Goals:**
+  - Marketing and sales leads from community work
+
+</v-clicks>
+
+<div v-click class="mt-5">
+
+> Não é só sobre os números em si, mas a qualidade das interações geradas pelos números!!
+
+</div>
+
+---
+layout: whoami
+layoutClass: gap-5
+image: https://i.imgur.com/QlzEv69.png
+---
+
+## Quais são as áreas que DevRel geralmente atua?
+
+Isso aqui provavelmente você já percebeu nesse ponto da palestra, mas:
+
+<v-clicks class="text-sm">
+
+- **Software as a Service (SaaS)**
+- **Cloud Infrastructure**
+- **B2C Products**
+- **Machine Learning**
+- **Fintech**
+
+</v-clicks>
+
+<div v-click class="mt-5">
+
+> Existem outras industrias que você pode atuar, desde que o produto seja focado para um Dev, é isso ai.
+
+</div>
+
+---
+layout: image
+image: https://i.imgur.com/51lg51l.png
+backgroundSize: contain
+---
+
+---
+layout: image
+image: https://i.imgur.com/nrYXX3H.png
+backgroundSize: contain
+---
+
+---
+layout: image
+image: https://i.imgur.com/5k1JLIu.png
+backgroundSize: contain
 ---

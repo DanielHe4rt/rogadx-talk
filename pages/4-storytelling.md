@@ -1,13 +1,20 @@
 ---
 layout: center
 layoutClass: gap-16
-name: "Uma Breve Historia..."
-
+name: "Developer Relations: Minha perspectiva"
 ---
 
 <div class="text-center">
-    <h1> Uma Breve Historia</h1>
-    Antes de entrarmos do mérito do projeto, deixa eu te contar um negócio...
+
+# Developer Relations: da minha perspective
+Vou apresentar um pouco do meu trabalho e da minha história com a comunidade que eu evangelizo/advogo 
+
+<v-click>
+
+> Como fazer seu trabalho de "vendedor" e ainda sim contribuir pra comunidade?
+
+</v-click>
+
 </div>
 
 ---
@@ -17,9 +24,8 @@ image: "https://i.imgur.com/iFbZI5D.png"
 fact: "Primeiras Lives"
 context: "Trocando um vicio pelo outro"
 year: "2018/jul"
-name: 'Minha História com a Twitch'
+name: "Minha História com a Twitch"
 --- 
-
 
 Sempre ficava vendo live de joguinho aka League of Legends, Overwatch, Terraria entre outros. 
 
@@ -32,53 +38,11 @@ Porém tinha acabado de começar a trabalhar e não conseguia focar nas entregas
 ---
 layout: facts
 transition: "fade"
-image: "https://user-images.githubusercontent.com/40467826/62578766-5c8f6b00-b878-11e9-856e-6aa3c05fa189.png"
-fact: "Chat da Twitch++"
-context: "Dá pra criar coisas inúteis!!"
-year: "2019/jul"
-name: 'IRC + Twitch = Projeto FODA'
---- 
-
-<div v-if="$clicks == 0">
-
-Consumir algo da Twitch era algo regular, porém quando fiz o primeiro projeto o jogo virou d+
-
-Já fui um fã de integrar IRC antes, mas o da Twitch foi 1000% mais simples:
-
-- Um tiquinho de JS 
-- Uma talagada de Maizena
-
-</div>
-<v-click>
-
-
-```js 
-// Create a client with our options
-
-const tmi = require('tmi.js');
-
-const client = new tmi.Client({
-	channels: [ 'danielhe4rt', 'alanzoka' ]
-});
-
-client.on('message', (channel, tags, message) => {
-	// "danielhe4rt: segue nois na twitch!"
-	console.log(`${tags['display-name']}: ${message}`);
-});
-
-client.connect();
-```
-</v-click>
-
-
----
-layout: facts
-transition: "fade"
 image: "https://i.imgur.com/CGGgQaz.png"
 fact: "Repo: Chat da Twitch"
 context: "Dá pra criar coisas inúteis!!"
 year: "2019/jul"
-name: 'Projeto no Github'
+name: "Projeto no Github"
 --- 
 
 <div class="mt-10">
@@ -114,7 +78,7 @@ image: "https://http.cat/404.png"
 fact: "Repo: Chat da Twitch"
 context: "Dá pra criar coisas inúteis!!"
 year: "2020/fev"
-name: 'BBOT: o tal do bot'
+name: "BBOT: o tal do bot"
 --- 
 
 <div class="mt-10">
