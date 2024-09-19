@@ -5,12 +5,9 @@ theme: seriph
 # like them? see https://unsplash.com/collections/94734566/slidev
 background: https://i.imgur.com/HmYoBEC.png
 # some information about your slides (markdown enabled)
-title: Criando Extensões de Alta Performance com JS + Rust + ScyllaDB
+title: "Developer Relations: a área mais comunicativa do meio dev (feat. RPG)"
 info: |
-  ## Slidev Starter Template
-  Criar aplicações web é legal, mas e quando falamos de extensões pra browser que precisam ser monstruosamente simples e rápidas? 
-
-  Learn more at [Sli.dev](https://sli.dev)
+  
 # apply unocss classes to the current slide
 class: text-center
 # https://sli.dev/features/drawing
@@ -23,13 +20,17 @@ mdc: true
 src: ./pages/1-intro.md
 ---
 
-
 ---
 src: ./pages/2-whoami.md
 ---
 
 ---
 src: ./pages/3-toc.md
+hide: false
+---
+
+---
+src: ./pages/3-1-devrel.md
 hide: false
 ---
 
