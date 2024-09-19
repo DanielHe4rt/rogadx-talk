@@ -29,10 +29,6 @@ layoutClass: gap-16
 - And many others!
 
 </v-clicks>
-<v-click>
-  <p>Provavelmente sim! Mas vamo quebrar isso um pouco.</p>
-</v-click>>
-
 
 ::right:: 
 
@@ -113,7 +109,7 @@ layoutClass: gap-16
 
 <div class="flex flex-col space-y-4 text-center">
 
-<h2 v-click >Beleza, vamo começar em DevRel então </h2>
+<h2>Beleza, vamo começar em <span class="text-primary"> DevRel</span> então </h2>
 <h3 v-click>DevRel = Developer Relations = ÁREA</h3>
 
 
@@ -193,7 +189,7 @@ layoutClass: gap-5
 <v-clicks>
 
 * Card Name: Herald of Innovation
-* Description: The Herald of Innovation strikes swiftly to spread excitement about the product. With precision, they target the right audiences through talks, demos, and content creation, driving adoption and breaking down barriers to engagement. 
+* Description: The Herald of Innovation strikes swiftly to spread excitement about the product. With precision, they target the right audiences through talks, demos, and content creation.
 * Skills
   * Captures the interest of developers through engaging presentations and demos.
   * Creates various forms of content to reach a broad audience simultaneously.
@@ -219,10 +215,71 @@ layoutClass: gap-5
 <v-clicks>
 
 * Card Name: Herald of Innovation
-* Description: The Minstrel of Unity brings harmony to the community. Through communication and engagement, they foster a positive environment where developers feel valued and connected. Their songs (messages) resonate with the community, enhancing collaboration.
+* Description: The Minstrel of Unity brings harmony to the community. Through communication and engagement, they foster a positive environment where developers feel valued and connected.
 * Skills
   * Creates a welcoming atmosphere that encourages community participation.
   * Boosts community activity through events, discussions, and updates.
   * Diffuses tensions and resolves conflicts within the community.
 
 </v-clicks>
+
+---
+layout: two-cols-header
+layoutClass: gap-5
+---
+
+## Developer Relations: Roles
+
+::left::
+
+<img width="260" class="rounded" src="https://i.imgur.com/FSRnOo8.png">
+
+::right::
+
+## Party Leader / DevRel Manager
+
+<v-clicks>
+
+* Card Name: Herald of Innovation
+* Description: The Strategist of Synergy leads the team with a comprehensive understanding of all roles. They set the overarching strategy, ensuring team cohesion.
+* Skills
+  * Aligns all roles towards common goals, maximizing team effectiveness.
+  * Charts the course for community growth and product promotion.
+  * Adjusts strategies based on feedback and changing landscapes.
+
+</v-clicks>
+
+---
+layout: fact
+layoutClass: gap-5
+---
+
+## Então, podemos entender que DevRel é um Marketing Tecnico?
+
+<v-click>
+  <div class="my-5"> <h3> Sim!</h3> </div>
+</v-click>
+
+<v-click>
+  <div class="my-5"><h3>Quer dizer... Depende da perspectiva!</h3> </div>
+</v-click>
+
+---
+layout: section
+layoutClass: gap-5
+---
+
+## 
+
+## Developer Relations: Companies Perspective 
+
+Até pq alguém tem que pagar suas contas \:p
+
+---
+layout: fact
+layoutClass: gap-5
+---
+
+eae
+---
+---
