@@ -14,19 +14,19 @@ layout: two-cols
 layoutClass: gap-16
 ---
 
-## You're Probably Part of a Community
+## Provavelmente você faz parte de uma comunidade
 
-<h3 class="my-3 text-gray-100"> Types of community </h3>
+<h3 class="my-3 text-gray-100"> Tipos de comunidade </h3>
 
 <v-clicks class="text-gray-200" depth="2">
 
-- **Games:**
+- **Jogos:**
   - *LevelUp Games*
   - *WebCheats*
 - **Discord:**
-  - Study groups
-  - Watch parties
-- And many others!
+  - Grupos de Estudos
+  - Assistir filmes em grupo
+- e muitas outras!
 
 </v-clicks>
 
@@ -54,18 +54,18 @@ layout: two-cols
 layoutClass: gap-16
 ---
 
-## The Power of Communities
+## O poder das comunidades
 
-<h3 class="my-3 text-gray-100"> Types of community </h3>
+<h3 class="my-3 text-gray-100"> Tipos de Comunidades </h3>
 
 <v-clicks class="text-gray-200" depth="2">
 
-- **Change Entire Environments:**
-  - Influence trends
-  - Drive innovation
-- **Or Disrupt Them:**
-  - Organize boycotts
-  - Spread negative feedback
+- **Mudar ambientes inteiros:**
+  - Influenciar tendências
+  - Promover inovação
+- **Ou interrompê-los:**
+  - Organizar boicotes
+  - Espalhar opiniões negativas
 
 </v-clicks>
 
@@ -94,9 +94,9 @@ layout: center
 layoutClass: gap-16
 ---
 
-## Now you probably understood why communities are 
+## Agora você entende porque é que as comunidades são
 
-<h1 class="text-center mt-4" v-click> POWERFUL </h1>
+<h1 class="text-center mt-4" v-click> PODEROSAS </h1>
 
 
 <!-- - Communities amplify individual voices, making them crucial for feedback and trust-building. -->
@@ -124,7 +124,7 @@ layout: two-cols-header
 layoutClass: "gap-5"
 ---
 
-## Developer Relations: Roles
+## Developer Relations: Cargos
 
 ::left::
 
@@ -132,15 +132,15 @@ layoutClass: "gap-5"
 
 ::right::
 
-## Warrior - Developer Advocate
+## Guerreiro - Developer Advocate
 
 <v-clicks>
 
-* Card Name: Guardian of the Code
-* Description: Stands in the front-line by engage and protect the interests of the community by bringing constructive feedbacks.
-* Skills
-  * Absorbs negative feedback and converts it into actionable insights for the product team.
-  * Rally developers around new initiatives or features, increasing community engagement.
+* Nome da Carta: Guardião do Código
+* Descrição: Está na linha de frente, envolvendo e protegendo os interesses da comunidade através de opiniões construtivas.
+* Habilidades:
+  * Absorve opiniões negativas e converte em informações úteis para a equipe de produtos.
+  * Reunir desenvolvedores em torno de novas iniciativas ou funcionalidades, aumentando o envolvimento da comunidade.
 
 </v-clicks>
 
@@ -150,7 +150,7 @@ layoutClass: gap-5
 layoutGap:
 ---
 
-## Developer Relations: Roles
+## Developer Relations: Cargos
 
 ::left::
 
@@ -158,16 +158,68 @@ layoutGap:
 
 ::right::
 
-## Wizard / Technical Writer
+## Mago - Technical Writer
 
 <v-clicks>
 
-* Card Name: Sage of Documentation
-* Description: The Sage of Documentation wields the power of knowledge. They create in-depth guides and resources that empower developers to use the product effectively. 
-* Skills
-  * Transforms complex technical jargon into clear, digestible content.
-  * Illuminates obscure features or functionalities, making them accessible to all.
-  * Continuously updates documentation to keep information current.
+* Nome da Carta: Sábio da Documentação
+* Descrição: O Sábio da Documentação exerce o poder do conhecimento. Criam guias e recursos aprofundados que permitem as pessoas desenvolvedoras utilizarem o produto de forma eficaz.
+* Habilidades
+  * Transforma o jargão técnico complexo em conteúdo claro e digerível.
+  * Ilumina características ou funcionlidades obscuras, tornando-as acessíveis a todos.
+  * Atualiza continuamente a documentação para manter a informação atualizada.
+
+</v-clicks>
+
+---
+layout: two-cols-header
+layoutClass: gap-5
+---
+
+## Developer Relations: Cargos
+
+::left::
+
+<img width="260" class="rounded" src="https://i.imgur.com/FSRnOo8.png">
+
+::right::
+
+## Arqueiro / Developer Evangelist
+
+<v-clicks>
+
+* Nome da Carta: Arauto da Inovação
+* Descrição: O Arauto da Inovação ataca rapidamente para espalhar o entusiamos sobre o produto. Com precisão, eles destinam o público certo atrés de palestras, demonstrações e criação de conteúdo.
+* Habilidades
+  * Captura o interesso das pessoas desenvolvedoras através de apresentações e demonstrações cativantes.
+  * Cria várias formas de conteúdo para atingir um público variado simultaneamente.
+  * Identifica tendências e oportunidades para posicionar o produto de forma eficaz.
+
+</v-clicks>
+
+---
+layout: two-cols-header
+layoutClass: gap-5
+---
+
+## Developer Relations: Cargos
+
+::left::
+
+<img width="260" class="rounded" src="https://i.imgur.com/FSRnOo8.png">
+
+::right::
+
+## Bardo / Community Manager
+
+<v-clicks>
+
+* Nome da Carta: Arauto da Inovação
+* Descrição: O Menestrel da União traz harmonia à comunidade. Através da comunicação e do envolvimento, promove um ambiente positivo onde as pessoas desenvolvedoras se sentem valorizadas e conectadas.
+* Habilidades
+  * Cria uma atmosfera acolhedora que incentiva a participação da comunidade.
+  * Aumenta a atividade da comunidade atrvés de eventos, discussões e atualizações.
+  * Difunde as tensões e resolve os conflitos dentro da comunidade. 
 
 </v-clicks>
 
@@ -177,74 +229,22 @@ layoutClass: gap-5
 ---
 
 ## Developer Relations: Roles
-
 ::left::
 
 <img width="260" class="rounded" src="https://i.imgur.com/FSRnOo8.png">
 
 ::right::
 
-## Archer / Developer Evangelist
+## Líder do Grupo  / DevRel Manager
 
 <v-clicks>
 
-* Card Name: Herald of Innovation
-* Description: The Herald of Innovation strikes swiftly to spread excitement about the product. With precision, they target the right audiences through talks, demos, and content creation.
-* Skills
-  * Captures the interest of developers through engaging presentations and demos.
-  * Creates various forms of content to reach a broad audience simultaneously.
-  * Identifies trends and opportunities to position the product effectively.
-
-</v-clicks>
-
----
-layout: two-cols-header
-layoutClass: gap-5
----
-
-## Developer Relations: Roles
-
-::left::
-
-<img width="260" class="rounded" src="https://i.imgur.com/FSRnOo8.png">
-
-::right::
-
-## Bard / Community Manager
-
-<v-clicks>
-
-* Card Name: Herald of Innovation
-* Description: The Minstrel of Unity brings harmony to the community. Through communication and engagement, they foster a positive environment where developers feel valued and connected.
-* Skills
-  * Creates a welcoming atmosphere that encourages community participation.
-  * Boosts community activity through events, discussions, and updates.
-  * Diffuses tensions and resolves conflicts within the community.
-
-</v-clicks>
-
----
-layout: two-cols-header
-layoutClass: gap-5
----
-
-## Developer Relations: Roles
-::left::
-
-<img width="260" class="rounded" src="https://i.imgur.com/FSRnOo8.png">
-
-::right::
-
-## Party Leader / DevRel Manager
-
-<v-clicks>
-
-* Card Name: Herald of Innovation
-* Description: The Strategist of Synergy leads the team with a comprehensive understanding of all roles. They set the overarching strategy, ensuring team cohesion.
-* Skills
-  * Aligns all roles towards common goals, maximizing team effectiveness.
-  * Charts the course for community growth and product promotion.
-  * Adjusts strategies based on feedback and changing landscapes.
+* Nome da Carta: Arauto da Inovação
+* Descrição: O Estrategista da Sinergia lidera a equipe com uma compreensão abrangente de todos os cargos. Define a estratégia global, assegurando a coesão da equipe.
+* Habilidades
+  * Alinha com todos os cargos com objetivos em comum, maximizando a eficácia da equipe. 
+  * Traça o rumo para o crescimento da comunidade e a promoção do produto.
+  * Ajusta as estratégias com base nas opiniões construtivas e na evolução dos cenários.
 
 </v-clicks>
 
@@ -269,7 +269,7 @@ layoutClass: gap-5
 ---
 
 
-## Developer Relations: Companies Perspective 
+## Developer Relations: Perpectivas da Companhia
 
 Até pq alguém tem que pagar suas contas \:p
 
@@ -287,30 +287,30 @@ Tem uma lista bem grandinha até:
 
 <v-clicks class="space-y-3">
 
-- **Educational Content & Talks**: 
-  - Creating tutorials, 
-  - delivering workshops, 
-  - writing docs.
-- **Leadership & Strategy**: 
-  - Setting goals, 
-  - prioritizing tasks, 
-  - managing teams.
-- **Community & Brand**: 
-  - Building programs, 
-  - managing communities, 
-  - distributing swag, 
-  - growing brand awareness.
+- **Conteúdos Educacionais e Palestras**: 
+  - Criação de tutoriais. 
+  - Realização de workshops. 
+  - Criação de documentações.
+- **Liderança e Estratégia**: 
+  - Definição de metas. 
+  - Priorização de tarefas.
+  - Gestão de equipes.
+- **Comunidade e Marca**: 
+  - Programas de construção. 
+  - Gestão de comunidades. 
+  - Distribuição de brindes.
+  - Aumentar o conhecimento da marca.
 
 </v-clicks>
 <v-clicks class="space-y-3">
 
-- **Open Source & Product Support**: 
-  - Contributing to open source
-  - triaging issues
-  - providing feedback.
-- **Product Development**: 
-  - Specifying new features and
-  - driving updates.
+- **Open Source e Suporte ao Produto**: 
+  - Contribuir para o Open Source.
+  - Triagem de issues do Github.
+  - Fornecer opiniões construtivas.
+- **Desenvolvimento do Produto**: 
+  - Especificação de novas funcionalidades.
+  - Conduzir novas atualizações.
 
 </v-clicks>
 </div>
@@ -327,15 +327,15 @@ DevRel é movido totalmente a números
 
 <v-clicks>
 
-- **Quantitative Metrics:**
-  - Number of active developers or product users
-  - Number of questions answered in forums/issues
-- **Qualitative Metrics:**
-  - Audience scores from talks and workshops
-  - Documentation quality ratings
-  - Community engagement metrics
-- **Supporting Business Goals:**
-  - Marketing and sales leads from community work
+- **Métricas Quantitativas:**
+  - Número de pessoas desenvolvedoras ativas ou utilizadoras do produto
+  - Número de perguntas respondidas em fóruns/issues no Github.
+- **Métricas Qualitativas:**
+  - Pontuações do público de palestras e workshops.
+  - Classificações da qualidade da documentação.
+  - Métricas de engajamento da comunidade.
+- **Apoiar os Objetivos Empresariais:**
+  - Marketing e vendas a partir do trabalho comunitário.
 
 </v-clicks>
 
